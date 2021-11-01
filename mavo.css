@@ -516,7 +516,7 @@ meter[property][mv-mode=edit], progress[property][mv-mode=edit] {
   --dark-color: hsl(0,50%,50%);
 }
 .mv-message.mv-error::before {
-  content: "😳 Oh noes! ";
+  content: "😳 Esgyrn Dafydd! ";
 }
 .mv-message.mv-deleted::before {
   content: none;
