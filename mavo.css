@@ -23,9 +23,7 @@
   all: initial;
   position: absolute;
   z-index: 10;
-  display: -webkit-inline-box;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
+
   -webkit-box-shadow: 0 0.1em 0.15em rgba(0, 0, 0, 0.12);
   box-shadow: 0 0.1em 0.15em rgba(0, 0, 0, 0.12);
   border-radius: calc(.3em + 1px);
