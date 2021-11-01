@@ -220,7 +220,7 @@ button.mv-close:hover {
   border-bottom-width: 0.8em;
   padding-top: 3em;
   border-radius: 0.5em;
-  background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%20300%20100%22%3E%3Cstyle%3E%40keyframes%20grow%20{	33.3%25%20{stroke-width%3A%2050px}	from%2C%2066.6%25%2C%20to%20{%20stroke-width%3A%200}}circle%20{	animation%3A%20grow%20.6s%20infinite%20both%3B	fill%3A%20white%3B	stroke%3A%20white%3B}%3C%2Fstyle%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2222%22%20%2F%3E%3Ccircle%20cx%3D%22150%22%20cy%3D%2250%22%20r%3D%2222%22%20style%3D%22animation-delay%3A%20.2s%22%20%2F%3E%3Ccircle%20cx%3D%22250%22%20cy%3D%2250%22%20r%3D%2222%22%20style%3D%22animation-delay%3A%20.4s%22%20%2F%3E%3C%2Fsvg%3E");
+  background-image: 
   background-repeat: no-repeat;
   background-color: rgba(0, 0, 0, 0.4);
   background-position-y: calc(50% - 1em);
